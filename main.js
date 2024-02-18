@@ -272,7 +272,7 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
-    tl.restart();
+    location.replace("https://www.w3schools.com")
   });
 };
 
