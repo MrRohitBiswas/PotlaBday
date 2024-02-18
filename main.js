@@ -272,7 +272,7 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
-    location.replace("https://www.w3schools.com")
+    location.replace("https://mrrohitbiswas.github.io/PotlaBday2/")
   });
 };
 
